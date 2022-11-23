@@ -12,7 +12,7 @@ const Hero = () => {
                 Hi, My Name is
             </span>
             <span class="block text-[#0a9396]">
-                Anubhav Bajpai
+                Ankan Kundu
             </span>
         </h2>
         <p class="text-xl mt-4 max-w-md mx-auto text-[#94d2bd]">
