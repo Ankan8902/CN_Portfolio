@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ankan8902/CN_Portfolio/static/css/main.88b2eee4.css",
+    "main.js": "/Ankan8902/CN_Portfolio/static/js/main.64430df6.js",
+    "index.html": "/Ankan8902/CN_Portfolio/index.html",
+    "main.88b2eee4.css.map": "/Ankan8902/CN_Portfolio/static/css/main.88b2eee4.css.map",
+    "main.64430df6.js.map": "/Ankan8902/CN_Portfolio/static/js/main.64430df6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88b2eee4.css",
+    "static/js/main.64430df6.js"
+  ]
+}
