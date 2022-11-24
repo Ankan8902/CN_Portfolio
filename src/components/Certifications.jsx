@@ -22,7 +22,7 @@ const Certifications = () => {
                 </div>
             </div>
             <p class="leading-loose text-[#005f73] dark:text-gray-200 text-md">
-                <a href="https://drive.google.com/file/d/1YfMo3UPVXnwZRKJ07Va9GWpNP_FbVi5V/view?usp=sharing" target="_blank" rel="noopener noreferrer" className='hover:text-[#e9d8a6] text-xl'>AWS Certificate Completition In Cloud Foundations</a>
+                <a href="https://drive.google.com/file/d/1pUQ1c_ywx5F5BRtgOogIbuAiDlqtsY8h/view?usp=sharing" target="_blank" rel="noopener noreferrer" className='hover:text-[#e9d8a6] text-xl'>AWS Certificate Completition In Cloud Computing</a>
             </p>
         </div>
         <div class="w-full border-b md:w-1/2 lg:w-1/3 lg:border-r p-8">
@@ -36,7 +36,7 @@ const Certifications = () => {
                 </div>
             </div>
             <p class="leading-loose text-[#005f73] dark:text-gray-200 text-md">
-                <a href='https://www.hackerrank.com/av8828' target="_blank" rel="noopener noreferrer" className='hover:text-[#e9d8a6] text-xl'>Recieved 5 Stars in Python on Hackerrank.</a>
+                <a href='https://www.hackerrank.com/ak7606' target="_blank" rel="noopener noreferrer" className='hover:text-[#e9d8a6] text-xl'>Recieved 5 Stars in Python on Hackerrank.</a>
             </p>
         </div>
     </div>
